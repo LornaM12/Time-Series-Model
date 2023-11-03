@@ -8,6 +8,6 @@ I addressed missing values in the dataset by filling numeric with mean and categ
 
 I converted the 'posting_date' column to a datetime data type.
 
-UtilizeD the 'posting_date' column to create a datetime index for the dataset.
+Utilized the 'posting_date' column to create a datetime index for the dataset.
 
 Build the time-series chart.
